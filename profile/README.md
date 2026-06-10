@@ -1,10 +1,13 @@
 <div align="center">
 
-# Spoon
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/getspoon/.github/main/profile/assets/spoon-wordmark-dark.svg">
+  <img alt="Spoon" src="https://raw.githubusercontent.com/getspoon/.github/main/profile/assets/spoon-wordmark-light.svg" width="220">
+</picture>
 
 ### The AI-Native Restaurant Operations Platform
 
-[getspoon.co](https://getspoon.co)
+[**getspoon.co**](https://getspoon.co)
 
 </div>
 
@@ -22,6 +25,12 @@ uses AI to turn operational data into decisions, not just dashboards.
   automate the busywork, so teams can focus on running great restaurants.
 - **Built from first principles.** A platform designed for how restaurants actually
   work today, not a digitized version of yesterday's paperwork.
+
+## Meet SpoonIQ
+
+SpoonIQ is the AI layer inside Spoon. It reads across operational data to spot
+opportunities, draft recommendations, and hand back clear next steps, so decisions
+get easier, not noisier.
 
 ## Learn more
 
